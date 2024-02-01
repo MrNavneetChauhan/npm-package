@@ -1,0 +1,22 @@
+{
+  "name": "ispalindromic",
+  "version": "1.0.0",
+  "description": "this package will check weather provided string is palindromic or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrNavneetChauhan/npm-package.git"
+  },
+  "keywords": [
+    "isPalindromic"
+  ],
+  "author": "Navneet Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrNavneetChauhan/npm-package/issues"
+  },
+  "homepage": "https://github.com/MrNavneetChauhan/npm-package#readme"
+}
