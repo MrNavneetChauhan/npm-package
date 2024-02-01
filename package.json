@@ -1,5 +1,5 @@
 {
-  "name": "ispalindromic",
+  "name": "@navneet/ispalindromic",
   "version": "1.0.0",
   "description": "this package will check weather provided string is palindromic or not.",
   "main": "index.js",
